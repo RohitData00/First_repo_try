@@ -16,6 +16,6 @@ The third level heading
 Add link [New Google link](https://www.google.com/)
 
 ## his is second edit
-Red are for deleted chanegs 
-Green are newly added lines
+Red are for deleted chanegs <br>
+Green are newly added lines <br>
 White or Black are unchanged ones. 
