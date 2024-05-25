@@ -15,7 +15,10 @@ The third level heading
 
 Add link [New Google link](https://www.google.com/)
 
-## his is second edit
+## This is second edit
 Red are for deleted chanegs <br>
 Green are newly added lines <br>
 White or Black are unchanged ones. 
+
+# Feature Branch
+These changes are of second branch other than main branch
